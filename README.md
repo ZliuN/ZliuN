@@ -14,7 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=zliun&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
-![](https://raw.githubusercontent.com/zliun/ziliun/output/github-snake.svg)
+![](https://raw.githubusercontent.com/zliun/zliun/main/assets/github-contribution-grid-snake.svg)
 
 ### About me
 
