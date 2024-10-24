@@ -22,6 +22,6 @@
 😃嗨，我是Zilove，一名来自Jxust的学生。
 
 <div>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=zliun&theme=calm&show_icons=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=zliun&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zliun&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
