@@ -13,7 +13,7 @@
     <a href="https://wakatime.com/@zilove"><img src="https://wakatime.com/badge/user/e2867160-1a44-4a2b-ab05-a95658a96c70.svg" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=zliun&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     
-  ![](https://raw.githubusercontent.com/ZliuN/ZliuN/refs/heads/output/github-contribution-grid-snake.svg)
+  ![](https://raw.githubusercontent.com/ZliuN/ZliuN/output/github-contribution-grid-snake.svg)
 </div>
 
 
